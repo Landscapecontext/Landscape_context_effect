@@ -2,7 +2,7 @@
 
 # take lm_1km_local and lm_1km_context10km as an example
 
-# input species richness data (dependent Variable)
+# input species richness data (dependent variable)
 sr <- read.csv("species richness.csv")
 SR <- sr$SR
 # input explanatory variables

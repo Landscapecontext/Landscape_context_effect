@@ -35,7 +35,7 @@ Also, the folders "Continental China" and "Sub-Saharan Africa" both contain:
 
   2. species list.xlsx:
 
-     species name, and body size group and trophic gulid they belong to.
+     species name, and body size group and trophic guild they belong to.
 
 
 
